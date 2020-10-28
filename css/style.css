@@ -1,0 +1,50 @@
+
+
+.heading{
+	text-align: center;
+	margin-top: -250px;
+	color: white;
+	font-size: 50px;
+}
+fa{
+	font-size: 150px;
+}
+
+.top-footer{
+	background: #287ab9;
+    color: #FFF;
+    height: 50px;
+    line-height: 50px;
+    text-align: center;
+    font-size: 1.2rem;
+}
+
+
+.fa .bottom_footer{
+padding: 20px;
+  font-size: 30px;
+  width: 50px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 2px;
+}
+h4{
+	color: white;
+}
+.fa:hover {
+    opacity: 0.7;
+}
+
+.fa-facebook {
+  background: #3B5998;
+  color: white;
+}
+
+.fa-twitter {
+  background: #55ACEE;
+  color: white;
+}
+.fa-linkedin {
+  background: #007bb5;
+  color: white;
+}
